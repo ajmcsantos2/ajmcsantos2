@@ -1,21 +1,18 @@
-<img width="830" height="260" alt="codigo" src="https://github.com/user-attachments/assets/9dfebebe-4c23-4c82-9ab1-3eb31901a4e3" />
-<img src="https://codigo.png">
-
-
 <h1 align="left">Hello World! 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Ana Júlia de Melo and I'm a Computer Science Student at CESAR School (1st semester) .</p>
+<p align="left">My name is Ana Júlia de Melo and I'm a Computer Science Student at CESAR School (1st semester) 🚀.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
 <p align="left">
-💻 I have experience with Python, Arduino, JavaScript, and CSS.
+📬 <b>Email:</b> <a href="mailto:ajmcs2@cesar.school">ajmcs2@cesar.school</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/anajuliamelocs/" target="_blank">Ana Júlia de Melo</a>
 </p>
 
 ###
