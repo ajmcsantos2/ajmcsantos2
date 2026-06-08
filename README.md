@@ -2,11 +2,11 @@
 <img src="https://codigo.png">
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello World! 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Ana Júlia de Melo and I'm a Computer Science Student at CESAR School (1st semester) 🚀.</p>
+<p align="left">My name is Ana Júlia de Melo and I'm a Computer Science Student at CESAR School (1st semester) .</p>
 
 ###
 
@@ -15,7 +15,7 @@
 ###
 
 <p align="left">
-💻 I have experience with **Python**, **Arduino**, **JavaScript**, and **CSS**.
+💻 I have experience with Python, Arduino, JavaScript, and CSS.
 </p>
 
 ###
