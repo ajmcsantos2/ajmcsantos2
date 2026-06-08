@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="nether fartal.wepb" alt="Banner do meu perfil" width="100%">
+  <img src="<img width="736" height="245" alt="nether fartal" src="https://github.com/user-attachments/assets/ffdc079c-d4b3-474f-bc9a-597a3e59c5a4" />
+" alt="Banner do meu perfil" width="100%">
 </p>
 
 
