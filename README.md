@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="nether fartal.wepb" alt="Banner do meu perfil" width="100%">
+</p>
+
+
+
+
 <h2 align="left">Hi 👋! My name is Ana Júlia de Melo and I'm a Computer Science student, from CESAR School</h2>
 
 ###
