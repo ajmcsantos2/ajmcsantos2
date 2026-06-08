@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ffdc079c-d4b3-474f-bc9a-597a3e597a3e594" alt="Banner do meu perfil" width="100%" />
-</p>
-
-
-
 <h2 align="left">Hi 👋! My name is Ana Júlia de Melo and I'm a Computer Science student, from CESAR School</h2>
 
 ###
