@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Ana Júlia de Melo and I'm a Computer Science Student at CESAR School (1st semester) 🚀.</p>
+<p align="left">My name is Ana Júlia de Melo and I'm a Computer Science Student at CESAR School (2nd semester) 🚀.</p>
 
 ###
 
